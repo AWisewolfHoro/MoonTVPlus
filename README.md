@@ -681,7 +681,7 @@ NEXT_PUBLIC_VOICE_CHAT_STRATEGY 选项解释：
 - [HLS.js](https://github.com/video-dev/hls.js) — 实现 HLS 流媒体在浏览器中的播放支持。
 - [Zwei](https://github.com/bestzwei) — 提供获取豆瓣数据的 cors proxy
 - [CMLiussss](https://github.com/cmliu) — 提供豆瓣 CDN 服务
-- 感谢所有提供免费影视接口的站点。
+- 感谢所有提供免费影视接口的站点。 
 
 ## Star History
 
